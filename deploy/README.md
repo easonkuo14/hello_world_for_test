@@ -8,7 +8,7 @@
 
 ### macOS / Linux
 ```bash
-git clone <your-git-url>.git
+git clone https://github.com/easonkuo14/hello_world_for_test.git
 cd hello_world_project/deploy
 chmod +x start_local.sh
 ./start_local.sh
