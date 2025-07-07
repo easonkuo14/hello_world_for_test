@@ -16,7 +16,7 @@ chmod +x start_local.sh
 
 ### Windows
 ```powershell
-git clone <your-git-url>.git
+git clone https://github.com/easonkuo14/hello_world_for_test.git
 cd hello_world_project\deploy
 .\start_local.bat
 ```
